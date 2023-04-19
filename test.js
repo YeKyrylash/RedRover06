@@ -12,3 +12,9 @@ let f = 20;
 let w = a * b;
 
 console.log(w)
+
+let er = 10;
+let tz = 50;
+let ed = a / b;
+
+console.log(ed)
